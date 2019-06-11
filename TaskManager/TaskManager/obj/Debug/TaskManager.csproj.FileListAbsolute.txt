@@ -1,0 +1,84 @@
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\bin\Debug\MaterialDesignColors.dll
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\bin\Debug\MaterialDesignXaml.DialogsHelper.dll
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\bin\Debug\MaterialDesignColors.pdb
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\bin\Debug\MaterialDesignXaml.DialogsHelper.pdb
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\TaskAddWindow.g.cs
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\App.g.cs
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\App.baml
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\TaskAddWindow.baml
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+c:\users\калиаскарр\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\bin\Debug\MaterialDesignColors.dll
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\bin\Debug\MaterialDesignXaml.DialogsHelper.dll
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\bin\Debug\MaterialDesignColors.pdb
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\bin\Debug\MaterialDesignXaml.DialogsHelper.pdb
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\TaskAddWindow.g.cs
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\App.baml
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\TaskAddWindow.baml
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\КалиаскарР\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\App.g.cs
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\MaterialDesignColors.dll
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\MaterialDesignXaml.DialogsHelper.dll
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\MaterialDesignColors.pdb
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\MaterialDesignXaml.DialogsHelper.pdb
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\TaskAddWindow.g.cs
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\App.baml
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\TaskAddWindow.baml
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\EntityFramework.dll
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.dll
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\EntityFramework.xml
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.xml
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\bin\Debug\ru\EntityFramework.resources.dll
+H:\Programmin with Visual STUDIO\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
